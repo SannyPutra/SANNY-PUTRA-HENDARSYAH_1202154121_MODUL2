@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rumah Makan vvibu</string>
+    <string-array name="tables_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+        <item>Meja 7</item>
+        <item>Meja 8</item>
+        <item>Meja 9</item>
+        <item>Meja 10</item>
+    </string-array>
+</resources>
